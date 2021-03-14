@@ -1,0 +1,16 @@
+.App {
+      text-align: center;
+    }
+
+.details{
+      display:grid;
+      grid-template-columns: 30% 60% ;
+      justify-content: space-around;
+      margin: 50px;
+      background-color:#D8BFD8;
+     
+      font-family: 'Source Code Pro', monospace;
+      border: solid 3px;
+      padding:10px;
+   
+}
